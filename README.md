@@ -8,7 +8,7 @@ Esta aplicação foi desenvolvida no Bootcamp 10ª edição como desafio final.
 
 <div style="display: flex; align-items: center ">
   <figure>
-    <img src="" alt="Imagem do site">
+    <img src="https://github.com/agnaka/Events/blob/sn_instances/dev256980/Event-tela_inicial.png" alt="Imagem do site">
     <sub>Aplicativo no Service Portal</sub>
   </figure>
   
